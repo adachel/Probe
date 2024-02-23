@@ -1,0 +1,14 @@
+D:\Works\IT\RepositoryCS\Probe\bin\Debug\net8.0\Probe.exe
+D:\Works\IT\RepositoryCS\Probe\bin\Debug\net8.0\Probe.deps.json
+D:\Works\IT\RepositoryCS\Probe\bin\Debug\net8.0\Probe.runtimeconfig.json
+D:\Works\IT\RepositoryCS\Probe\bin\Debug\net8.0\Probe.dll
+D:\Works\IT\RepositoryCS\Probe\bin\Debug\net8.0\Probe.pdb
+D:\Works\IT\RepositoryCS\Probe\obj\Debug\net8.0\Probe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\IT\RepositoryCS\Probe\obj\Debug\net8.0\Probe.AssemblyInfoInputs.cache
+D:\Works\IT\RepositoryCS\Probe\obj\Debug\net8.0\Probe.AssemblyInfo.cs
+D:\Works\IT\RepositoryCS\Probe\obj\Debug\net8.0\Probe.csproj.CoreCompileInputs.cache
+D:\Works\IT\RepositoryCS\Probe\obj\Debug\net8.0\Probe.dll
+D:\Works\IT\RepositoryCS\Probe\obj\Debug\net8.0\refint\Probe.dll
+D:\Works\IT\RepositoryCS\Probe\obj\Debug\net8.0\Probe.pdb
+D:\Works\IT\RepositoryCS\Probe\obj\Debug\net8.0\Probe.genruntimeconfig.cache
+D:\Works\IT\RepositoryCS\Probe\obj\Debug\net8.0\ref\Probe.dll
